@@ -1,83 +1,76 @@
-# ⚡ TechTonic 2.0
 
-**TechTonic** is the official **First-Year Training & Practice Repository of OpenCode**.  
-It is designed to onboard beginners into real open-source workflows through guided, wing-specific tasks.
+                        F O S S   W I N G
 
----
+                ╔══════════════════════════════════════╗
+                ║      (づ｡◕‿‿◕｡)づ  Welcome Hacker  ║
+                ║             Build Open Source        ║
+                ║             Learn Together           ║
+                ║                 (≧◡≦)               ║
+                ╚══════════════════════════════════════╝
 
-## 🎯 Objective
+# TechTonic 2.0 – FOSS Wing
 
-TechTonic exists to:
+FOSS Training Grounds, OpenCode
 
-- Build strong development fundamentals in every domain 
-- Teach basic principals, techonology and techniques used in popular domains  
-- Prepare contributors for advanced OpenCode repositories  
+This branch is dedicated to helping first-year contributors step into the real world of open-source development through guided, mentor-verified tasks and projects.
 
----
+Only FOSS-related contributions are accepted here.
 
-## 🧩 Who Can Contribute?
+## Why This Wing Exists
 
-- 👶 **First Year Contributors Only**  
-- Beginner-friendly, mentor-guided  
-- Strictly verified through OpenCode  
+- Teach open-source culture, licenses & contribution flows
+- Train contributors on Git/GitHub & collaborative development
+- Build clean documentation & automation habits
+- Prepare students for large OpenCode repositories
 
----
+## Who Can Contribute?
 
-## 🌿 Wing-Wise Branch Structure
+- First-year students only
 
-TechTonic follows a **branch-based wing system**:
+## Branch Rules
 
-| Wing | Branch |
-|-----|------|
-| Web Development | `webdev` |
-| App Development | `appdev` |
-| AI / ML | `aiml` |
-| Design | `design` |
-| CC Wing | `competitive` |
-| Cybersec | `cybersec` |
-| Blockchain | `blockchain` |
-| Game Development | `gamedev` |
-| FOSS | `foss` |
+| Branch | Purpose |
+|------|--------|
+| foss | All FOSS related tasks & projects |
 
-Each branch will have:
+All work must happen in foss branch.
 
-- 4–5 beginner-friendly issues  
-- Starter project code  
-- Wing-specific instructions  
+❌ PRs to main or unrelated work will be rejected.
 
-> ⚠️ The `main` branch does not contain project code.  
-> All development must happen inside your respective wing branch.
+## Project Layout
 
----
+```
+TechTonic-2.0/
+│
+├── tasks/
+│   ├── task-01/
+│   ├── task-02/
+│   ├── task-03/
+│   └── ...
+│
+└── README.md       <---- You Are Here
+```
 
-## 🛠 How to Contribute
+## Contribution Flow
 
-1️⃣ Go to the **Issues** tab  
-2️⃣ Select the issue you want to solve  
-3️⃣ Carefully read the issue description to check **which wing branch it belongs to**  
-4️⃣ Fork this repository  
-5️⃣ **Do NOT fork only the `main` branch**  
-   – You must also fetch and work on the **specified wing branch**  
-6️⃣ Switch to the required wing branch (`webdev`, `appdev`, `aiml`, etc.)  
-7️⃣ Complete your solution **only inside that branch**  
-8️⃣ Open your Pull Request to the same wing branch  
-9️⃣ Wait for mentor review & merge  
+1. Choose a FOSS issue to solve
+2. Fork the repo
+3. Fetch the foss branch
+4. Switch to foss
+5. Work inside tasks/ , instructions will be given within them
+6. Push your changes
+7. Open PR to `foss` branch only
+8. Wait for mentor review
 
-> ❌ PRs opened to the `main` branch or created by copying only the `main` branch will be rejected.
+## Need Help?
 
----
+Discuss in the TechTonic 2.0 Discussion Channel:  
+https://discord.com/channels/885149696249708635/1454421075692884070
 
-## 🆘 Need Help?
+### FOSS Mentors
 
-Each wing branch will have its **own README file** which contains:
-
-- Branch-specific guidelines  
-- The **Discord IDs of the respective maintainers/mentors**  
-
-If you are stuck, confused, or need clarification — directly contact the maintainers mentioned in your wing branch README.
-
-> ⚠️ Do not DM random mentors. Always use the Discord IDs mentioned in your branch README.
-
----
-
-> *Learn. Build. Rise.* 🚀
+- the.rational_idiot
+- washikiballasan
+- fire_5419
+- hyperghost4951
+- terror_quota
